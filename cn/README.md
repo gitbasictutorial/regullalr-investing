@@ -1,10 +1,10 @@
-![cover](../images/cover.png)
+# 定投改变命运
 
+李笑来 10/2019
 
+![cover](cover.png)
 
 -----
-
-
 
 ## 警告
 
