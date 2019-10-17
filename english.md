@@ -2,7 +2,7 @@
 
 *by Xiaolai Li, rewritten in English by John Gordon & Xiaolai Li*
 
-![](../images/coverimage.gif)
+![](images/coverimage.gif)
 
 ## Warning
 
@@ -71,13 +71,13 @@ Is such a simple strategy really effective? The numbers don't lie.
 
 Suppose you started investing in the S&P 500 on October 8th, 2007. Knowing what we know now, that seems to be the worst time to enter the market, because what immediately followed was the 2008 financial crisis, and it was that day that the stock market began to crash. So if you started investing \$1,000 USD per week on that day...
 
-![Figure01](../images/Figure01.png)
+![Figure01](images/Figure01.png)
 
 What would the result be? If we take ourselves back to October 8th, 2007, it's really hard to know what the result would be. But if we look at it from today, more than a decade later, the answer is clear: the results were fantastic! We experienced a crash in the market from \$1,561 to a low of \$683, but we kept buying at that low price. Later, the market recovered, and by October of 2019 the S&P 500 had exceeded \$2,960.
 
 But this description is missing an important detail. Figure below shows the value of your total assets (the red line) and the value of your total investment (the blue line). 
 
-![Figure02](../images/Figure02.png)
+![Figure02](images/Figure02.png)
 
 There is an extended period of time when your asset value drops below your total investments. But towards the end of 2009 the red line passes the blue line, and it almost never again drops below, growing faster over time.
 
@@ -85,13 +85,13 @@ There is an extended period of time when your asset value drops below your total
 
 The key point is that you entered the market at the worst time –- on October 8th, 2007, S&P 500 was at \$1,561, and it didn't return to this price until March 25th, 2013.
 
-![Figure03](../images/Figure03.png)
+![Figure03](images/Figure03.png)
 
 But if you take another look at Figure before the above, you'll see that the red line crosses the blue line for the first time in 2009. So while it took the S&P 500 **286** weeks to return to its high, your strategy of regular investing began to see steady positive returns after just *111* weeks. When you started to see positive returns, the S&P 500 was still 30% off its all-time high. When the S&P 500 finally returned to its high after 286 weeks, your strategy was already showing returns of *32.64%*.
 
 Let's take a look at an even more striking example. Suppose you started regularly investing in Bitcoin in December of 2017 when Bitcoin was at it's all-time high of \$19,800. Shortly aftwards, the price crashed, and it still hasn't returned to its all-time high. The chart below assumes you started regularly investing in Bitcoin on December 11th, 2017, and kept it up for 87 weeks. 
 
-![Figure04](../images/Figure04.png)
+![Figure04](images/Figure04.png)
 
 >Note: The historical data above is from [Yahoo Finance (Bitcoin USD)](https://finance.yahoo.com/quote/BTC-USD/history/), and the chart was made using Google Sheets. You can view the data and chart [here](https://docs.google.com/spreadsheets/d/1pzc6p4UhyAMtqaKis2_uU3hbi8Um34ArTiUQr1tZpc0/edit?usp=sharing).
 
@@ -136,13 +136,13 @@ Unlike most people, I have a fairly clear, accurate and useful definition of lon
 
 A clear and accurate definition of "long-term" thus depends on a clear and accurate definition of another concept: "market cycle". So what's a full market cycle? Let's take Bitcoin's historical price chart as an example to explain.
 
-![Figure05](../images/Figure05.png)
+![Figure05](images/Figure05.png)
 
 A full market cycle is composed of a period of falling (Period B), and a period of rising (Period A). In this chart we can see a full market cycle, with Period B beginning in December of 2013 when prices started falling, and Period A ending in December of 2017 when Bitcoin reached its historical high. 
 
 How can you tell when a market cycle begins? Actually, we can only make this determination **after the fact**. Since short term prices can rise and fall unpredictably, it's impossible to know when a high or low point for a period has been reached. It's hard to know how long after the fact it will be before we can make the determination, but we can be sure that it will be long enough that the judgement will not be useful for short-term trading decisions.
 
-![Figure06](../images/Figure06.png)
+![Figure06](images/Figure06.png)
 
 On the same chart, I have market the three full market cycles that I have personally experienced with Bitcoin. The first started around June 8 of 2011 at a price of \$32, and ended on April 11, 2013, at a price of \$266; the second started at the end of the first and ended on December 19, 2013, at a price of \$1,280; the third started at the end of the second and ended on December 17, 2017, at a price of \$19,800. Actually, I have experienced more cycles thin this, since I entered the Bitcoin market two months before the June 2011 high of \$32, and I have continued and will continue to hold Bitcoin since the December 2017 historical high of \$19,800.
 
@@ -156,7 +156,7 @@ Furthermore, please notice the use of "more likely to be" in the sentence above.
 
 In the chart above, we can barely see the high reached in June of 2011. But if we separate each historical high into separate charts, we see that they look strikingly similar.
 
-![Figure07](../images/Figure07.png)
+![Figure07](images/Figure07.png)
 
 Each of these charts looks quite similar to the overall historical chart, which is to say that even as I am in the midst of my fourth full cycle, even though I have made similar judgments based on "more likely" before, I still can't be completely sure this time. I still can only use "more likely" as the basis for my judgement. It's just that I've been quite lucky in that my previous three judgements based on "more likely" were proven to be correct.
 
@@ -173,7 +173,7 @@ Let's briefly summarize what we have discussed thus far:
 
 If we use this "upgraded" way of thinking to look at any price chart we will get a completely different result than before. Below is the price chart for the S&P 500 from 1956 to 2019:
 
-![Figure08](../images/Figure08.png)
+![Figure08](images/Figure08.png)
 
 > Note: The historical data in this chart come from [Yahoo Finance (^GSPC)](https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC), and the chart was created in Google Sheets; you can view the data and spreadsheet [here](https://docs.google.com/spreadsheets/d/1RsmiifuZajR_POx1zO_--qUcOgwb7tABNQpT-O69Ryk/edit?usp=sharing).
 
